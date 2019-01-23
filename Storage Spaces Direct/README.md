@@ -2,7 +2,7 @@
 
 ## Counters
 
-S2D_counters.json contains suggested performance counters.
+[S2D_counters.json](https://github.com/janegilring/WindowsPerformance/blob/master/Storage%20Spaces%20Direct/Performance%20counters/S2D_counters.json) contains suggested performance counters.
 
 The counters reference file can be read by PowerShell and converted to any desired format, such as YAML:
 
