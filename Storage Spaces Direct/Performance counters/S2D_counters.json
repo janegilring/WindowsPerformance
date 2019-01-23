@@ -1,0 +1,182 @@
+[
+    {
+        "Counter":  "\\Hyper-V Hypervisor Virtual Processor(*)\\% Guest Run Time",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Hyper-V Hypervisor Virtual Processor(*)\\% Hypervisor Run Time",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Hyper-V Hypervisor Virtual Processor(*)\\% Total Run Time",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Hyper-V Virtual Switch(*)\\Packets Sent/sec",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Hyper-V Virtual Switch(*)\\Packets Received/sec",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Hyper-V Virtual Switch(*)\\Bytes Sent/sec",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Hyper-V Virtual Switch(*)\\Bytes Received/sec",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Cluster CSV File System(*)\\Flushes/sec",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Cluster CSV File System(*)\\Writes/sec",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Cluster CSV File System(*)\\Reads/sec",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Cluster CSV File System(*)\\Write Latency",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Cluster CSV File System(*)\\Read Latency",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Cluster CSV File System(*)\\Redirected Read Bytes/sec",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Cluster CSV File System(*)\\Redirected Write Bytes/sec",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Cluster CSV File System(*)\\Read Queue Length",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Cluster CSV File System(*)\\Write Queue Length",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Hyper-V Virtual Storage Device(*)\\Write Bytes/sec",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Hyper-V Virtual Storage Device(*)\\Read Bytes/sec",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Hyper-V Virtual Storage Device(*)\\Latency",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    },
+    {
+        "Counter":  "\\Hyper-V Virtual Storage Device(*)\\Throughput",
+        "Suggested threshold":  {
+
+                                },
+        "Comment":  {
+
+                    }
+    }
+]
