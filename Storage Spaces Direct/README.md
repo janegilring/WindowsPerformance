@@ -1,5 +1,18 @@
 # Storage Spaces Direct Performance monitoring
 
+## Grafana, InfluxDB and Telegraf
+
+- [Grafana Hyper-V Metrics Dashboard](https://github.com/janegilring/WindowsPerformance/blob/master/Storage%20Spaces%20Direct/Grafana/Hyper-V%20Metrics.json) - based on [Hyper-V Metrics dashboard by Allan Good](https://grafana.com/dashboards/2618)
+- [Telegraf.conf](https://github.com/janegilring/WindowsPerformance/blob/master/Storage%20Spaces%20Direct/Telegraf/telegraf.conf) contains the necessary counters for the dashboard
+
+Sample screenshots:
+
+![Hyper-V Dashboard - example 01](/Images/Hyper-V_dashboard_01.png)
+
+![Hyper-V Dashboard - example 02](/Images/Hyper-V_dashboard_02.png)
+
+![Hyper-V Dashboard - example 03](/Images/Hyper-V_dashboard_03.png)
+
 ## Counters
 
 [S2D_counters.json](https://github.com/janegilring/WindowsPerformance/blob/master/Storage%20Spaces%20Direct/Performance%20counters/S2D_counters.json) contains suggested performance counters.
