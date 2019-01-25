@@ -13,6 +13,8 @@ Sample screenshots:
 
 ![Hyper-V Dashboard - example 03](https://github.com/janegilring/WindowsPerformance/raw/master/Storage%20Spaces%20Direct/Images/Hyper-V_dashboard_03.png)
 
+![Hyper-V Dashboard - example 04](https://github.com/janegilring/WindowsPerformance/raw/master/Storage%20Spaces%20Direct/Images/Hyper-V_dashboard_04.png)
+
 ## Counters
 
 [S2D_counters.json](https://github.com/janegilring/WindowsPerformance/blob/master/Storage%20Spaces%20Direct/Performance%20counters/S2D_counters.json) contains suggested performance counters.
