@@ -17,12 +17,12 @@ Sample screenshots:
 
 ## Counters
 
-[S2D_counters.json](https://github.com/janegilring/WindowsPerformance/blob/master/Storage%20Spaces%20Direct/Performance%20counters/S2D_counters.json) contains suggested performance counters.
+[S2D_counters.csv](https://github.com/janegilring/WindowsPerformance/blob/master/Storage%20Spaces%20Direct/Performance%20counters/S2D_counters.csv) contains suggested performance counters for monitoring S2D.
 
 The counters reference file can be read by PowerShell and converted to any desired format, such as YAML:
 
 ```powershell
-$Counters = Get-Content -Path '~\Git\WindowsPerformance\Storage Spaces Direct\Performance counters\S2D_counters.json' | ConvertFrom-Json
+$Counters = Import-Csv -Path '~\Git\WindowsPerformance\Storage Spaces Direct\Performance counters\S2D_counters.csv'
 
 Install-Module -Name powershell-yaml -Scope CurrentUser
 $Counters | Select-Object -ExpandProperty Counter | ConvertTo-Yaml
@@ -33,10 +33,10 @@ If you want to contribute and know which counter set to find suggested counters 
 ```powershell
 $Counters = Get-Counter -ListSet *
 $CounterSet = 'Cluster CSV File System'
-$Counters | where CounterSetName -eq $CounterSet | select -ExpandProperty Paths | select @{n='Counter';e={$_}},@{n='Suggested threshold';e={}},@{n='Comment';e={}} | Out-GridView -PassThru | ConvertTo-Json | clip
+$Counters | where CounterSetName -eq $CounterSet | select -ExpandProperty Paths | select @{n='Counter';e={$_}},@{n='Suggested threshold';e={}},@{n='Comment';e={}} | Out-GridView -PassThru | ConvertTo-Csv | clip
 ```
 
-A grid window will popup allowing you to select counters. The selection will be converted to JSON and placed on the clipboard, ready to paste into S2D_counters.json.
+A grid window will popup allowing you to select counters. The selection will be converted to CSV and placed on the clipboard, ready to paste into S2D_counters.csv.
 
 ## Links
 
