@@ -7,11 +7,11 @@
 
 Sample screenshots:
 
-![Hyper-V Dashboard - example 01](/Images/Hyper-V_dashboard_01.png)
+![Hyper-V Dashboard - example 01](/Storage Spaces Direct/Images/Hyper-V_dashboard_01.png)
 
-![Hyper-V Dashboard - example 02](/Images/Hyper-V_dashboard_02.png)
+![Hyper-V Dashboard - example 02](/Storage Spaces Direct/Images/Hyper-V_dashboard_02.png)
 
-![Hyper-V Dashboard - example 03](/Images/Hyper-V_dashboard_03.png)
+![Hyper-V Dashboard - example 03](/Storage Spaces Direct/Images/Hyper-V_dashboard_03.png)
 
 ## Counters
 
