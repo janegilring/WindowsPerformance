@@ -7,11 +7,11 @@
 
 Sample screenshots:
 
-![Hyper-V Dashboard - example 01](/Storage Spaces Direct/Images/Hyper-V_dashboard_01.png)
+![Hyper-V Dashboard - example 01](https://github.com/janegilring/WindowsPerformance/raw/master/Storage%20Spaces%20Direct/Images/Hyper-V_dashboard_01.png)
 
-![Hyper-V Dashboard - example 02](/Storage Spaces Direct/Images/Hyper-V_dashboard_02.png)
+![Hyper-V Dashboard - example 02](https://github.com/janegilring/WindowsPerformance/raw/master/Storage%20Spaces%20Direct/Images/Hyper-V_dashboard_02.png)
 
-![Hyper-V Dashboard - example 03](/Storage Spaces Direct/Images/Hyper-V_dashboard_03.png)
+![Hyper-V Dashboard - example 03](https://github.com/janegilring/WindowsPerformance/raw/master/Storage%20Spaces%20Direct/Images/Hyper-V_dashboard_03.png)
 
 ## Counters
 
